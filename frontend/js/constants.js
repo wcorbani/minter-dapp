@@ -1,9 +1,9 @@
 const contractAddress = "0x106ba5c929b999458a317907c97de228310fb766"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "welcome to world of metaGardiens";
-const welcome_h2 = "connect to metamask to get started";
-const welcome_p = 'the metaGardien NFT project is a collection manifested by visual artist volonté, with plans of metaverse & social media integration using interactive 3D models';
+const welcome_h1 = "metaGardien";
+const welcome_h2 = "connect with metamask to get started";
+const welcome_p = 'the metaGardien NFT project is a collection manifested by visual artist Volonté, soon to have metaverse & social media integration using interactive 3D models';
 const h1_presale_coming_soon = "origines arriving soon";
 const h1_presale_mint = "presale mint now open";
 const h1_public_mint = "public minting now open";
