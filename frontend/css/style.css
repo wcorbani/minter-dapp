@@ -10,9 +10,9 @@
   --font-code: "Lato", sans-serif;
   --bg-color: #ffffff;
   --bg-color-transparent: #ffffff80;
-  --font-color: #323232;
+  --font-color: #7d7d7d;
   --btn-bg-color: #ffffff;
-  --accent-color: #7d7d7d;
+  --accent-color: #323232;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 5px;
 }
